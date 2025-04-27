@@ -1,1 +1,1 @@
-This Repository contains the configuration files to make changes in the servers
+This Repository contains the configuration python files to make changes in the servers
